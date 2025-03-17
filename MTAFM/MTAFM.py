@@ -3,7 +3,7 @@ from typing import List
 import torch
 import torch.nn as nn
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-class ImPLE(nn.Module):
+class MTAFM(nn.Module):
     def __init__(self,
         input_len: int,
         layers: int,
