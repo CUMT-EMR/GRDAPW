@@ -13,6 +13,6 @@ It contains code based on PSO-wavelet threshold denoising-OPTICS noise reduction
 
 As the model was only used in the system application, the model code source warehouse [xuangu-fang/BayOTIDE: BayOTIDE-Bayesian Online Multivariate Time Series Imputation with Functional Decomposition ( ICML 2024 spotlight)](https://github.com/xuangu-fang/BayOTIDE), on the basis of which we further developed the data preprocessing code and configuration files that conform to our data distribution law, and generated the data collection of gas and roof warning related indicators, the specific files are uploaded in the folder.
 
-4. **MTAFM gas, roof fusion warning model**
+4. **MTAFM model**
 
 We provide a generic version of this model structure code that can be very easily utilized to build your own tasks.
