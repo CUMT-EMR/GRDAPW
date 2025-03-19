@@ -1,5 +1,5 @@
 # GRDAPW
-This repository contains all the codes in the paper “**Adaptive Data Preprocessing and Multi-Indicator Fusion Early Warning for Gas and Roof Slab Hazard Risks in Coal Mines**” with the following code hierarchy:
+This repository contains all the codes in the paper “**Intelligent adaptive methods for data preprocessing and multi-indicator fusion early warning of gas and roof disaster risks in coal mines**” with the following code hierarchy:
 
 1. **Outlier Handling Model**
 
