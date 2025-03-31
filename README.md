@@ -16,3 +16,7 @@ As the model was only used in the system application, the model code source ware
 4. **MTAFM model**
 
 We provide a generic version of this model structure code that can be very easily utilized to build your own tasks.
+
+5. **Sample generation**
+
+We provide the GAN, and diffusion model code used for sample generation in the paper, which can be easily used for expanding the generation of various signals
